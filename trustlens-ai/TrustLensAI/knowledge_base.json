@@ -1,0 +1,18 @@
+{
+  "offline": true,
+  "categories": [
+    {"name":"phishing","description":"A message attempts to lure someone into a link, reply, or disclosure.","warning_signs":["Unexpected link","Urgency","Sensitive information request"],"safety_actions":["Do not use the message link","Verify independently"]},
+    {"name":"UPI scam","description":"A payment or QR prompt may be framed as a refund or receipt.","warning_signs":["Asked to enter PIN to receive money","Unsolicited QR code"],"safety_actions":["Never enter a PIN to receive funds","Confirm in the official payment app"]},
+    {"name":"OTP scam","description":"A one-time code is requested to gain access or approve an action.","warning_signs":["Someone asks you to read or forward a code"],"safety_actions":["Never share an OTP","Contact the service using a known channel"]},
+    {"name":"job scam","description":"A fake job or recruiter may demand a fee or sensitive documents early.","warning_signs":["Upfront fee","Guaranteed job","Unverified recruiter"],"safety_actions":["Verify the company careers page","Do not pay to secure a job"]},
+    {"name":"investment scam","description":"A scheme may promise unusually high or guaranteed returns.","warning_signs":["Guaranteed profit","Pressure to act quickly"],"safety_actions":["Check the regulator","Do not send money under pressure"]},
+    {"name":"parcel scam","description":"A delivery notice requests a small fee or login details through a link.","warning_signs":["Unexpected fee","Unfamiliar tracking link"],"safety_actions":["Use the courier's official app or site"]},
+    {"name":"lottery scam","description":"An unexpected prize is used to solicit fees or personal details.","warning_signs":["Prize you did not enter","Processing fee"],"safety_actions":["Do not pay to claim an unsolicited prize"]},
+    {"name":"bank impersonation","description":"A sender claims to represent a bank and requests an urgent action.","warning_signs":["Account-block threat","OTP or login request"],"safety_actions":["Call the number on your card or bank site"]},
+    {"name":"government impersonation","description":"A sender uses official-sounding threats or penalties to create fear.","warning_signs":["Immediate fine","Arrest threat","Payment link"],"safety_actions":["Navigate to the official government portal independently"]},
+    {"name":"customer-support scam","description":"A fake support contact requests remote access, payment, or a code.","warning_signs":["Unsolicited support call","OTP request"],"safety_actions":["End the call and find verified support details"]},
+    {"name":"social-media recovery scam","description":"A fake recovery helper asks for a login code or credentials.","warning_signs":["Recovery code request","Unofficial support account"],"safety_actions":["Use the platform's official recovery flow"]},
+    {"name":"romance scam","description":"A person builds trust then creates an urgent financial request.","warning_signs":["Repeated emergencies","Requests for money or secrecy"],"safety_actions":["Talk with someone you trust before sending money"]},
+    {"name":"QR scam","description":"A QR code may open an untrusted payment or credential page.","warning_signs":["Unexpected QR code","Payment to receive a refund"],"safety_actions":["Preview the destination","Use a known official app"]}
+  ]
+}
